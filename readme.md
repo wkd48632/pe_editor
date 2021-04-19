@@ -4,6 +4,7 @@ Edit PE.
 ## Deps
 - consolas font
 - python
+- pygame
 
 ## Zen
 I don't care about non-devs.
